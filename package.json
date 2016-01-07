@@ -1,0 +1,21 @@
+{
+  "name": "@vaalentin/gl-buffer",
+  "version": "1.0.0",
+  "description": "WebGl buffer wrapper.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaalentin/gl-buffer.git"
+  },
+  "keywords": [
+    "WebGL"
+  ],
+  "author": "vaalentin <vaalentin@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaalentin/gl-buffer/issues"
+  },
+  "homepage": "https://github.com/vaalentin/gl-buffer#readme"
+}
+
