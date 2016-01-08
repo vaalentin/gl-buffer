@@ -1,6 +1,6 @@
 {
   "name": "@vaalentin/gl-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WebGl buffer wrapper.",
   "main": "dist/index.js",
   "scripts": {
