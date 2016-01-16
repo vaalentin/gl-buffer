@@ -1,11 +1,11 @@
-# gl-buffer
+# @vaalentin/gl-buffer
 
 WebGL buffer wrapper.
 
 ## Installation
 
 ```
-$ npm install --save @vaalention/gl-buffer
+$ npm install --save @vaalentin/gl-buffer
 ```
 
 ## Usage
