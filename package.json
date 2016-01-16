@@ -1,7 +1,7 @@
 {
   "name": "@vaalentin/gl-buffer",
-  "version": "1.0.1",
-  "description": "WebGl buffer wrapper.",
+  "version": "1.0.2",
+  "description": "WebGL buffer wrapper.",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm run build",
